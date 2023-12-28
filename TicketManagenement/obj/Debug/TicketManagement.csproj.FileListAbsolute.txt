@@ -1,0 +1,134 @@
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagement.csproj.AssemblyReference.cache
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagement.csproj.SuggestedBindingRedirects.cache
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.Properties.Resources.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.Login.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagement.csproj.GenerateResource.cache
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagement.csproj.CoreCompileInputs.cache
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\TicketManagenement.exe.config
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\TicketManagenement.exe
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\TicketManagenement.pdb
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\Google.Protobuf.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\K4os.Compression.LZ4.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\K4os.Hash.xxHash.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\MySql.Data.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\MySqlConnector.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Buffers.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.IO.Pipelines.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Memory.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Numerics.Vectors.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagement.csproj.CopyComplete
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.exe
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.pdb
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.Home.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.InsertData.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.Order.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.Sign_Up.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.exe.licenses
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\Bunifu.UI.WinForms.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\Newtonsoft.Json.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\RestSharp.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.CodeDom.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Data.Odbc.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Data.OleDb.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Data.SqlClient.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Drawing.Common.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.IO.Packaging.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.IO.Ports.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Security.AccessControl.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Security.Permissions.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Security.Principal.Windows.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\bin\Debug\System.Threading.AccessControl.xml
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagement.csproj.Fody.CopyLocal.cache
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.Profile.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.manageSystem.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.InsertFilm.resources
+D:\Collage\semester 3\Pemrograman Lanjut(PL)\UJIAN\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.SnackInsert.resources
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\TicketManagenement.exe.config
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\TicketManagenement.exe
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\TicketManagenement.pdb
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\BouncyCastle.Cryptography.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\Bunifu.UI.WinForms.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\Google.Protobuf.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\K4os.Compression.LZ4.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\K4os.Hash.xxHash.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\Microsoft.Win32.Registry.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\MySql.Data.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\MySqlConnector.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\Newtonsoft.Json.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\RestSharp.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Buffers.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.CodeDom.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Data.Odbc.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Data.OleDb.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Data.SqlClient.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Diagnostics.EventLog.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Drawing.Common.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.IO.Packaging.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.IO.Pipelines.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.IO.Ports.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Memory.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Numerics.Vectors.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Security.AccessControl.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Security.Permissions.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Security.Principal.Windows.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.ServiceModel.Syndication.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Threading.AccessControl.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagement.csproj.AssemblyReference.cache
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagement.csproj.SuggestedBindingRedirects.cache
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.Properties.Resources.resources
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.Home.resources
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.InsertData.resources
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.InsertFilm.resources
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.Login.resources
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.manageSystem.resources
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.Order.resources
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.Profile.resources
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.Sign_Up.resources
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.View.SnackInsert.resources
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagement.csproj.GenerateResource.cache
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.exe.licenses
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagement.csproj.CoreCompileInputs.cache
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagement.csproj.Fody.CopyLocal.cache
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagement.csproj.CopyComplete
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.exe
+D:\SEM3\PL\FNLPRJCT\FP\TicketManagenement\TicketManagenement\obj\Debug\TicketManagenement.pdb
